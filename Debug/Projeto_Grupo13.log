@@ -1,0 +1,7 @@
+﻿  Projeto.c
+C:\Users\joaox\Documents\Visual Studio\Projeto_Grupo13\Projeto_Grupo13\Projeto.c(84,7): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\joaox\Documents\Visual Studio\Projeto_Grupo13\Projeto_Grupo13\Projeto.c(743,11): warning C4098: 'add_new_reservation': 'void' function returning a value
+C:\Users\joaox\Documents\Visual Studio\Projeto_Grupo13\Projeto_Grupo13\Projeto.c(763,12): warning C4098: 'add_new_reservation': 'void' function returning a value
+C:\Users\joaox\Documents\Visual Studio\Projeto_Grupo13\Projeto_Grupo13\Projeto.c(875,12): warning C4098: 'change_row_chair': 'void' function returning a value
+C:\Users\joaox\Documents\Visual Studio\Projeto_Grupo13\Projeto_Grupo13\Projeto.c(888,12): warning C4098: 'change_row_chair': 'void' function returning a value
+  Projeto_Grupo13.vcxproj -> C:\Users\joaox\Documents\Visual Studio\Projeto_Grupo13\Debug\Projeto_Grupo13.exe

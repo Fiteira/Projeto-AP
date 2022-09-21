@@ -1,0 +1,9 @@
+Code     Locality     Rows     Chairs
+1        Viseu	      20	       20
+2        Porto	      30	       15
+
+Room_Code	Show_Code	Title		Genre		Day  /  Month  /  Year		Price		Hour : Minute	Duration
+1		1		Mamma Mia!		Musical		29    /  1      /  2022		7.50		12    : 30  AM	90
+
+Room_code	Show_code	Reservation_code	Name	Row	Chair	Payment
+1		1		1			Antonio	12	10	Y
